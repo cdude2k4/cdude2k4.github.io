@@ -17,6 +17,10 @@
 	text-decoration: none;
 }
 
+#nav a:hover{
+	background-color: grey;
+}
+
 footer{
 	color:grey;
 }
